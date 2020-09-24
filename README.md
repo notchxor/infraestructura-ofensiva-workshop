@@ -54,9 +54,9 @@ seteando los repos
 
 vamos a usar 3 repositorios: 
 
-https://github.com/notchxor/infraestructura-ofensiva-workshop
-https://github.com/notchxor/infraestructura-ofensiva-cluster
-https://github.com/notchxor/infraestructura-ofensiva-infra
+https://github.com/notchxor/infraestructura-ofensiva-workshop  
+https://github.com/notchxor/infraestructura-ofensiva-cluster  
+https://github.com/notchxor/infraestructura-ofensiva-infra  
 
 
 
