@@ -46,6 +46,6 @@ seteando los repos
     uid           [ unknown] Docker Release (CE deb) <docker@docker.com>
     sub   rsa4096 2017-02-22 [S]
 
- $ sudo apt-get update
- $ sudo apt-get install docker-ce docker-ce-cli containerd.io
- $ sudo docker run hello-world
+    $ sudo apt-get update
+    $ sudo apt-get install docker-ce docker-ce-cli containerd.io
+    $ sudo docker run hello-world
