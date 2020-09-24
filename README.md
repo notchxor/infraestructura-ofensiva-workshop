@@ -49,3 +49,19 @@ seteando los repos
     $ sudo apt-get update
     $ sudo apt-get install docker-ce docker-ce-cli containerd.io
     $ sudo docker run hello-world
+
+# Repositorios
+
+vamos a usar 3 repositorios: 
+
+https://github.com/notchxor/infraestructura-ofensiva-workshop
+https://github.com/notchxor/infraestructura-ofensiva-cluster
+https://github.com/notchxor/infraestructura-ofensiva-infra
+
+
+
+* workshop: este repo, voy a ir actualizandolo con mas informacion y con la presentacion post workshop
+* cluster: kubespray para deployar un cluster a un servidor baremetal
+* infra: todos los yaml para armar los c2 y playbooks de ansible para redirectors
+
+
